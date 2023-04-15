@@ -1,10 +1,12 @@
 #!/usr/bin/node
-const A = “C is fun”;
-console.log(A);
 
-const B = “Python is cool”;
-console.log(B);
+const x = 'C is fun';
 
-const C = “JavaScript is amazing”;
-console.log(C);
+const y = 'Python is cool';
+
+const z = 'JavaScript is amazing';
+
+console.log(x);
+console.log(y);
+console.log(z);
 
